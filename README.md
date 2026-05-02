@@ -1,2 +1,2 @@
 # Spam-Email-ML-project
-This is spam-email-ML-project
+This is a spam-email-ML-project
